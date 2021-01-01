@@ -8,42 +8,62 @@ const weatherOptions = {
   Thunderstorm: {
     iconName: "weather-lightning",
     gradient: ["#373B44", "#4286f4"],
+    title: "Thunderstorm",
+    subtitle: "Lightning like a thunder⚡️"
   },
   Drizzle: {
     iconName: "weather-hail",
     gradient: ["#89F7FE", "#66A6FF"],
+    title: "Drizzle",
+    subtitle: ""
   },
   Rain: {
     iconName: "weather-rainy",
     gradient: ["#00C6FB", "#005BEA"],
+    title: "Rain",
+    subtitle: "I'm singing in the rain"
   },
   Snow: {
     iconName: "weather-snowy",
     gradient: ["#7DE2FC", "#B9B6E5"],
+    title: "Snow",
+    subtitle: "Okay, bye❄️"
   },
   Atmosphere: {
     iconName: "weather-hail",
     gradient: ["#89F7FE", "#66A6FF"],
+    title: "Atmosphere",
+    subtitle: ""
   },
   Clear: {
     iconName: "weather-sunny",
     gradient: ["#FF7300", "#FEF253"],
+    title: "Clear",
+    subtitle: "Coast is clear."
   },
   Clouds: {
     iconName: "weather-cloudy",
     gradient: ["#D7D2CC", "#304352"],
+    title: "Clouds",
+    subtitle: "If the clouds move against the wind, rain will follow."
   },
   Mist: {
     iconName: "weather-hail",
     gradient: ["#4DA0B0", "#D39D38"],
+    title: "Mist",
+    subtitle: ""
   },
   Dust: {
     iconName: "weather-hail",
     gradient: ["#4DA0B0", "#D39D38"],
+    title: "Dust",
+    subtitle: "Dust to dust."
   },
   Haze: {
     iconName: "weather-hail",
     gradient: ["#4DA0B0", "#D39D38"],
+    title: "Haze",
+    subtitle: ""
   },
 };
 
